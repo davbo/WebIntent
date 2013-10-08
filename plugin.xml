@@ -3,8 +3,8 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.borismus.webintent"
-    version="0.1.0">
+    id="com.davbo.webintent"
+    version="0.2.0">
     <name>WebIntent</name>
     <description>Web Intent Plugin</description>
     <license>Apache 2.0</license>
